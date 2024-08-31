@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/506524895299266694/a6b44c441ec24505a835c01ff05b9fd2/artifacts
+end_time: 1725099347066
+entry_point_name: ''
+experiment_id: '506524895299266694'
+lifecycle_stage: active
+run_id: a6b44c441ec24505a835c01ff05b9fd2
+run_name: fearless-shad-372
+run_uuid: a6b44c441ec24505a835c01ff05b9fd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725099346467
+status: 3
+tags: []
+user_id: devi.psharma

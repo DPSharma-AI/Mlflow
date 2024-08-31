@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ff7fac4db9974747883c17cf7a006b7a/artifacts
+end_time: 1725090563713
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff7fac4db9974747883c17cf7a006b7a
+run_name: gentle-jay-381
+run_uuid: ff7fac4db9974747883c17cf7a006b7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725090556767
+status: 3
+tags: []
+user_id: devi.psharma

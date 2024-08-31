@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/506524895299266694/310912c6ebc04460935c22466a781d1b/artifacts
+end_time: 1725103170168
+entry_point_name: ''
+experiment_id: '506524895299266694'
+lifecycle_stage: active
+run_id: 310912c6ebc04460935c22466a781d1b
+run_name: lyrical-wasp-235
+run_uuid: 310912c6ebc04460935c22466a781d1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725103164437
+status: 3
+tags: []
+user_id: devi.psharma
